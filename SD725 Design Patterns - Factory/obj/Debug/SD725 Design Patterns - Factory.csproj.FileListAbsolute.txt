@@ -1,0 +1,7 @@
+C:\Users\splan\source\repos\SD725 Design Patterns - Factory\SD725 Design Patterns - Factory\bin\Debug\SD725 Design Patterns - Factory.exe.config
+C:\Users\splan\source\repos\SD725 Design Patterns - Factory\SD725 Design Patterns - Factory\bin\Debug\SD725 Design Patterns - Factory.exe
+C:\Users\splan\source\repos\SD725 Design Patterns - Factory\SD725 Design Patterns - Factory\bin\Debug\SD725 Design Patterns - Factory.pdb
+C:\Users\splan\source\repos\SD725 Design Patterns - Factory\SD725 Design Patterns - Factory\obj\Debug\SD725 Design Patterns - Factory.csprojAssemblyReference.cache
+C:\Users\splan\source\repos\SD725 Design Patterns - Factory\SD725 Design Patterns - Factory\obj\Debug\SD725 Design Patterns - Factory.csproj.CoreCompileInputs.cache
+C:\Users\splan\source\repos\SD725 Design Patterns - Factory\SD725 Design Patterns - Factory\obj\Debug\SD725 Design Patterns - Factory.exe
+C:\Users\splan\source\repos\SD725 Design Patterns - Factory\SD725 Design Patterns - Factory\obj\Debug\SD725 Design Patterns - Factory.pdb
